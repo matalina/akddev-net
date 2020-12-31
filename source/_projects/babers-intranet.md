@@ -1,5 +1,7 @@
 ---
 title: Baber's Inc. Intranet
+extends: _layouts.project
+section: content
 version: 4
 url:
 repo:

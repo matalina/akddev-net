@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /mnt/d/Personal/Development/akddev-net/source/_assets/js/main.js */"./source/_assets/js/main.js");
-module.exports = __webpack_require__(/*! /mnt/d/Personal/Development/akddev-net/source/_assets/css/main.css */"./source/_assets/css/main.css");
+__webpack_require__(/*! /workspace/akddev-net/source/_assets/js/main.js */"./source/_assets/js/main.js");
+module.exports = __webpack_require__(/*! /workspace/akddev-net/source/_assets/css/main.css */"./source/_assets/css/main.css");
 
 
 /***/ })

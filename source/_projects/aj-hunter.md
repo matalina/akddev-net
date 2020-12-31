@@ -1,5 +1,7 @@
 ---
 title: AJ Hunter
+extends: _layouts.project
+section: content
 version: 1
 url: https://aj-hunter.com
 repo: https://github.com/matalina/aj-hunter-com

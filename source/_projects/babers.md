@@ -1,5 +1,7 @@
 ---
 title: Babers.com
+extends: _layouts.project
+section: content
 version: 3
 url: https://babers.com
 terms:
