@@ -1,0 +1,13 @@
+{
+    "name": "matalina/akddev-net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alicia Wilkerson",
+            "email": "alicia@akddev.net"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "^1.3"
+    }
+}
